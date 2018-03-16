@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ComponentsUI</string>
+
+    <string-array name="android_layout_arrays">
+        <item></item>
+        <item>Americana</item>
+        <item>Peperoni</item>
+        <item>Hawaiana</item>
+        <item>Meat Lover</item>
+    </string-array>
+
+</resources>
+
